@@ -13,6 +13,6 @@ ShallowVsDeepCopyApp: This program serves as a comparison between shallow copy a
 
 TicTacToeApp: This program is a console-based implementation of the popular Tic-Tac-Toe game, allowing two players to take turns to play. The TicTacToeApp program lets two players take turns in a game of Tic-Tac-Toe on a 3x3 grid. 
 
-To install and run the projects: 
-Clone the repository
-Run each project
+To install and run the projects 
+1. Clone the repository
+2. Run each project
