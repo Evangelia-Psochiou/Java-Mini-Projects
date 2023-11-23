@@ -3,7 +3,7 @@ A collection of Java projects that exemplify a wide array of programming concept
 opportunity to enhance Java programming skills.
 
 
-MaxCarsApp:This program demonstrates the calculation of the maximum number of consecutive arrivals in a parking lot. It takes an array of arrival and departure times, transforms it to indicate arrivals and departures, sorts the array by time, and calculates the maximum consecutive arrivals.
+MaxCarsApp: This program demonstrates the calculation of the maximum number of consecutive arrivals in a parking lot. It takes an array of arrival and departure times, transforms it to indicate arrivals and departures, sorts the array by time, and calculates the maximum consecutive arrivals.
 
 MaxSubArrayApp: This program finds the maximum possible sum of a contiguous subarray using Dynamic Programming.
 
